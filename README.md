@@ -1,5 +1,20 @@
 # upshop
 
+
+
+## how to merge branch to main 
+```
+git checkout master
+
+git pull
+
+git checkout main
+
+git merge master
+
+git push
+```
+
 ## Project setup
 ```
 npm install
