@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<br v-for="count in 30" :key="count" />
-		我是 slideToload 组件
+		我是 slideToload 组件 haha
 		<br v-for="count in 30" :key="count+30" />
 	</div>
 
